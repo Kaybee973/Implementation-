@@ -17,52 +17,99 @@
 button{
     background-color: #e6ecff;
     color: #3363ff;
-    padding: 8px 40px;
+    padding: 14px 100px;
     font-size: 15px;
     border: none;
+    margin-left: 30px;
 }
 
 /* Box One */
 .box-one{
 background-color: #fff;
 width: 50%;
-margin: 25px 20px;
+margin: 50px 50px;
+height: 75%;
+width: 25%;
+text-align: left;
+box-shadow: 0 3rem 6rem rgb(0 0 0 / 10%);
 
 }
 .box-one img{
-    width: 10%;
+    width: 341px;
+    height: auto;
+    padding-bottom: 20px;
 }
-.box-one h3{
-
+.box-one h2{
+font-weight: 400;
+padding-bottom: 20px;
+margin-left: 30px;
+font-size: 30px;
 }
-.box-one p{}
+.box-one p{
+    font-weight: 100;
+    font-size: 16px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-bottom: 20px;
+    line-height: 1.6;
+}
 
 /* Box Two */
 .box-two{
     background-color: #fff;
     width: 50%;
-    margin: 25px 20px;
+    margin: 50px 50px;
+    height: 75%;
+    width: 25%;
+    text-align: left;
+    box-shadow: 0 3rem 6rem rgb(0 0 0 / 10%);
     }
     .box-two img{
-        width: 10%;
+        width: 341px;
+        height: auto;
+        padding-bottom: 20px;
     }
-    .box-two h3{
-
+    .box-two h2{
+        font-weight: 400;
+        padding-bottom: 20px;
+        margin-left: 30px;
+        font-size: 30px;
     }
     .box-two p{
-
+        font-weight: 100;
+        font-size: 16px;
+        margin-left: 30px;
+        margin-right: 30px;
+        padding-bottom: 20px;
+        line-height: 1.6;
     }
 
     /* Box Three */
     .box-three{
         background-color: #fff;
-        width: 50%;
-        margin: 25px 20px;
+width: 50%;
+margin: 50px 50px;
+height: 75%;
+width: 25%;
+text-align: left;
+box-shadow: 0 3rem 6rem rgb(0 0 0 / 10%);
         }
         .box-three img{
-            width: 10%;
+            width: 341px;
+            height: auto;
+            padding-bottom: 20px;
         }
-        .box-three h3{}
+        .box-three h2{
+            font-weight: 400;
+padding-bottom: 20px;
+margin-left: 30px;
+font-size: 30px;
+        }
         .box-three p{
-            
+            font-weight: 100;
+            font-size: 16px;
+            margin-left: 30px;
+            margin-right: 30px;
+            padding-bottom: 20px;
+            line-height: 1.6;
         }
