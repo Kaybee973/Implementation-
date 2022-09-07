@@ -34,7 +34,7 @@ button{
 }
 
 .container div img{
-    width: 341px;
+    width: 100%;
     height: auto;
     padding-bottom: 20px;
 }
